@@ -1,6 +1,6 @@
 The aim of the project is to detect faults in electrical transimission system and classify the fault based on current and voltage measurment.
 
-After analyzing the fault types shown in the file it was found that the majority of the faults are 3 phase faults, where they make 30% of the faults.
+After analyzing the fault types shown in the file it was found that the majority of the faults are 3 phase faults, where they make 40% of the faults.
 The other types of the faults, each make 20% of the faults occuring on the transimission line. Finally, it was found that 20% of the faults occuring on phase A only, while 40% faults includes phase A. Suggesting an issue related to phase A of the transimmission line
 
 I used the following libraries in my project:
